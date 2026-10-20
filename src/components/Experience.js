@@ -21,7 +21,7 @@ export var Experience = function () {
                 '50% reduction in documentation effort via prompt engineering',
                 'Architected production-grade Angular 17 components with RxJS',
             ],
-            technologies: ['Angular 17', 'TypeScript', 'RxJS', 'REST APIs', 'GitHub Copilot', 'Jenkins'],
+            technologies: ['Angular 17', 'TypeScript', 'RxJS', 'REST APIs', 'Java', 'Spring Boot', 'PostgreSQL', 'GitHub Copilot', 'Jenkins'],
         },
         {
             id: 2,
@@ -51,7 +51,7 @@ export var Experience = function () {
                 'Sub-second UI response times for device operations',
                 'End-to-end testing across UI, backend, and hardware layers',
             ],
-            technologies: ['Angular', 'TypeScript', 'REST APIs', 'IoT', 'SQL', 'Raspberry Pi'],
+            technologies: ['Angular', 'TypeScript', 'REST APIs', '.NET', 'IoT', 'SQL', 'Raspberry Pi'],
         },
     ];
     var containerVariants = {

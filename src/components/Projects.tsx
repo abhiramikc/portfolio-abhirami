@@ -118,15 +118,13 @@ export const Projects = () => {
             <motion.div
               key={project.id}
               variants={itemVariants}
-              className={`glass rounded-xl overflow-hidden hover:border-primary-purple/50 transition-all group ${
-                index % 2 === 0 ? 'md:flex' : 'md:flex md:flex-row-reverse'
-              }`}
+              className={`glass rounded-xl overflow-hidden hover:border-primary-purple/50 transition-all group ${index % 2 === 0 ? 'md:flex' : 'md:flex md:flex-row-reverse'
+                }`}
             >
               {/* Image Placeholder */}
               <div className="w-full md:w-2/5 h-64 md:h-auto bg-gradient-to-br from-primary-purple/20 to-primary-blue/20 flex items-center justify-center flex-shrink-0 border-r border-white/5 group-hover:from-primary-purple/30 group-hover:to-primary-blue/30 transition-colors">
                 <div className="text-center">
-                  <div className="text-6xl mb-2">📱</div>
-                  <span className="text-white/40 text-sm">Project Screenshot</span>
+                  <div className="text-6xl">📱</div>
                 </div>
               </div>
 
