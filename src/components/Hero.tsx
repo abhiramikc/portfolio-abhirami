@@ -60,8 +60,7 @@ export const Hero = () => {
           variants={itemVariants}
           className="text-lg md:text-xl text-white/70 mb-8 max-w-2xl mx-auto leading-relaxed"
         >
-          Senior Software Engineer specialized in building scalable, high-performance web applications.
-          5+ years of expertise in Angular, React, and Vue.js. Passionate about clean code and exceptional UX.
+          **Senior Full Stack Software Engineer** specializing in building scalable, high-performance web applications. Experienced in frontend development using Angular, React, and Vue.js, and backend development using Java, Spring Boot, and PostgreSQL. Passionate about writing clean, maintainable code, designing efficient RESTful APIs, optimizing database performance, and delivering exceptional user experiences.
         </motion.p>
 
         {/* Stats */}

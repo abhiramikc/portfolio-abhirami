@@ -17,7 +17,12 @@ export const Skills = () => {
     {
       category: 'Frontend Frameworks',
       color: 'from-primary-blue to-primary-purple',
-      skills: ['Angular 8-17', 'React 18', 'Vue.js', 'TypeScript', 'RxJS', 'NgRx', 'Redux'],
+      skills: ['Angular 8-20', 'React 18', 'Vue.js', 'TypeScript', 'RxJS', 'NgRx', 'Redux'],
+    },
+    {
+      category: 'Backend Frameworks',
+      color: 'from-primary-blue to-primary-purple',
+      skills: ['Java', 'Spring Boot', 'hibernate', '.NET'],
     },
     {
       category: 'Styling & UI',
